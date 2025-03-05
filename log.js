@@ -9,7 +9,7 @@
   const validUsers = [
     { email: 'bandarlaundry@gmail.com', password: 'password123', validityPeriod: 7 }, // 7 days
     { email: 'bandardeterjen@gmail.com', password: 'password456', validityPeriod: 14 }, // 14 days
-    { email: 'bezimeni.id@gmail.com', password: 'mypassword', validityPeriod: 30 } // 30 days
+    { email: 'aiindonesiaart@gmail.com', password: 'password789', validityPeriod: 365 } // 365 days
   ];
 
   // Check if the user is already logged in
